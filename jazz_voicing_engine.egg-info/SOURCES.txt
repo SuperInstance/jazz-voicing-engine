@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+jazz_voicing_engine/__init__.py
+jazz_voicing_engine/comping.py
+jazz_voicing_engine/generator.py
+jazz_voicing_engine/voicings.py
+jazz_voicing_engine/walking_bass.py
+jazz_voicing_engine.egg-info/PKG-INFO
+jazz_voicing_engine.egg-info/SOURCES.txt
+jazz_voicing_engine.egg-info/dependency_links.txt
+jazz_voicing_engine.egg-info/requires.txt
+jazz_voicing_engine.egg-info/top_level.txt
+tests/test_voicings.py

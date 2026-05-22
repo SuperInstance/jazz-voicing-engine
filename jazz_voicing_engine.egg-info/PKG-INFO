@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: jazz-voicing-engine
+Version: 0.1.0
+Summary: Jazz piano voicing generator with voice leading, comping patterns, and walking bass lines
+License: MIT
+Requires-Python: >=3.9
+Provides-Extra: midi
+Requires-Dist: mido>=1.3; extra == "midi"
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
